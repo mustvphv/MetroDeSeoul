@@ -56,7 +56,7 @@ successeur2]:[temps du trajet station principale-successeur2]|[nom de successeur
 
 On peut prendre l’exemple suivant :
 
-## 1|Gaebong<1:3|Oryu-dong,1:2|Guil>
+### 1|Gaebong<1:3|Oryu-dong,1:2|Guil>
 
 On peut constater ici que la station « Gaebong », appartient à la ligne 1 et a pour successeurs les
 stations « Oryu-dong » (qui appartient à la ligne 1 et le temps du trajet Gaebong à Oryu-dong est de
@@ -240,7 +240,7 @@ l’algorithme de Dijkstra.
 
 Explication des fonctions du programme :
 
-int rechercheIndiceDebut(int sommet_pivot) : cette fonction permet de trouver l'indice de début des
+<pre><code>int rechercheIndiceDebut(int sommet_pivot)<pre><code> : cette fonction permet de trouver l'indice de début des
 lignes successeurs d'une station donnée dans la matrice compacte Mco.
 
 int correspondanceTemps(int x_pivotMCO1, int x_pivot1) : détermine s'il y a une correspondance
