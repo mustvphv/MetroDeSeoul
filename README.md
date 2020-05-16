@@ -2,7 +2,8 @@
 Projet d'Algorithmique Avancée
 
 
-# Projet n°15 « Gérer un réseau de transports en commun, par exemple le métro de Séoul, via un graphe (Lis et Mco). Résoudre dans ce cas le problème du plus court chemin, algorithme de Dijkstra. »
+# Projet n°15 
+# « Gérer un réseau de transports en commun, par exemple le métro de Séoul, via un graphe (Lis et Mco). Résoudre dans ce cas le problème du plus court chemin, algorithme de Dijkstra. »
 
 
 
