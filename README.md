@@ -2,37 +2,8 @@
 Projet d'Algorithmique Avancée
 
 
-mustvphv
+# Projet n°15 « Gérer un réseau de transports en commun, par exemple le métro de Séoul, via un graphe (Lis et Mco). Résoudre dans ce cas le problème du plus court chemin, algorithme de Dijkstra. »
 
-# Projet n°
-
-## « Gérer un réseau de transports en commun, par
-
-## exemple le métro de Séoul, via un graphe (Lis et Mco).
-
-## Résoudre dans ce cas le problème du plus court chemin,
-
-## algorithme de Dijkstra. »
-
-
-## Rapport de projet :(Projet 15)
-
-Sommaire :
-
-1. Description du projet....................................................................................page 3
-2. Carte du métro et base de données............................................................pages 4, 5, 6
-3. La récupération d’informations........................................................................page 6
-4. La matrice compacte.....................................................................................page
-7
-5. La liste de successeurs..................................................................................page 7
-6. Algorithme de Dijkstra.............................................................................pages 8, 9
-7. Comparaison de la mactrice compacte et de la liste de successeurs au niveau du
-temps.......................................................................................................page 9
-8. Difficultés rencontrées et améliorations possibles.................................................page 10
-
-ANNEXE 1. Code Imprimé
-ANNEXE 2. Base de données (base2donnees_metro_seoul.txt)
-ANNEXE 3. Carte utilisée pour le métro de Séoul
 
 
 ### 1. Description du sujet :
@@ -332,5 +303,8 @@ plusieurs lignes comme autant de stations à part entière à une seule ligne ch
 par des arrêtes comme entre des stations différentes avec comme distance, la valeur 3 (3 minutes),
 mais cette technique coûtera plus en place mémoire (puisque c’est comme si on avait augmenté le
 nombre de stations).
+
+</br>
+</br>
 
 ![Optional Text](../master/images-readme/mseoul.png)
