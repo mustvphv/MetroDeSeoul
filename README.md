@@ -240,31 +240,31 @@ l’algorithme de Dijkstra.
 
 Explication des fonctions du programme :
 
-*int rechercheIndiceDebut(int sommet_pivot)* : cette fonction permet de trouver l'indice de début des
+***int rechercheIndiceDebut(int sommet_pivot)*** : cette fonction permet de trouver l'indice de début des
 lignes successeurs d'une station donnée dans la matrice compacte Mco.
 
-int correspondanceTemps(int x_pivotMCO1, int x_pivot1) : détermine s'il y a une correspondance
+***int correspondanceTemps(int x_pivotMCO1, int x_pivot1)*** : détermine s'il y a une correspondance
 entre la station Pivot et le successeur pour le calcul du poids. Elle donne 3 les deux stations sont
 atteintes par des lignes de métro différentes, 0 sinon.
 
-int correspondanceTempsListe(int x_pivot1) : idem que pour int correspondanceTemps(int
+***int correspondanceTempsListe(int x_pivot1)*** : idem que pour int correspondanceTemps(int
 x_pivotMCO1, int x_pivot1).
 
-void evaluationDijkstra() : exécute l'algorithme de Dijkstra dans la matrice Mco.
+***void evaluationDijkstra()*** : exécute l'algorithme de Dijkstra dans la matrice Mco.
 
-void evaluationDijkstraListe() : exécute l'algorithme de Dijkstra dans la matrice Lis.
+***void evaluationDijkstraListe()*** : exécute l'algorithme de Dijkstra dans la matrice Lis.
 
-void CorrectionChemin(int xIndice) : cette procédure permet de réévaluer le poids déterminé par
+***void CorrectionChemin(int xIndice)*** : cette procédure permet de réévaluer le poids déterminé par
 l'algorithme de Dijkstra en tenant compte des correspondances retenues. Elle servira à proposer un
 plus court chemin différent en supprimant la correspondance.
 
-void meilleurChemin() : elle retourne le meilleur chemin trouvé en s'aidant de la procédure
+***void meilleurChemin()*** : elle retourne le meilleur chemin trouvé en s'aidant de la procédure
 CorrectionChemin(int xIndice).
 
-void CorrectionCheminListe(int xIndice) : idem que pour la procédure CorrectionChemin(int
+***void CorrectionCheminListe(int xIndice)*** : idem que pour la procédure CorrectionChemin(int
 xIndice).
 
-void meilleurCheminListe() : idem que pour la procédure meilleurChemin().
+***void meilleurCheminListe()*** : idem que pour la procédure meilleurChemin().
 
 ### 7. Comparaison de la matrice compacte et de la liste de successeurs au niveau du
 
