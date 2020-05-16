@@ -75,9 +75,7 @@ qu’on peut aller de la station x vers la station y, mais qu’on ne peut pas a
 station x.
 Concrètement, si on est à la station « Eungam » et qu’on veut aller à la station «Gusan», qu’on
 pourrait croire « proche » du fait que la station « Eungam » apparaît directement accessible à la
-station « Gusan », on doit en fait, effectuer le trajet : « Eungam - Yeokchon - Bulgwang – Dokbawi
-
-- Yeonnsinnae - Gusan » pour y arriver parce qu’on peut aller que dans un sens. Du coup, cette
+station « Gusan », on doit en fait, effectuer le trajet : « Eungam - Yeokchon - Bulgwang – Dokbawi - Yeonnsinnae - Gusan » pour y arriver parce qu’on peut aller que dans un sens. Du coup, cette
 partie du métro est orientée contrairement au reste du métro où on peut aller dans n’importe quel
 sens.
 Dans la base de donnée, les stations qui se trouvent au milieu de la boucle d’ « Eungam » , comme
@@ -185,7 +183,9 @@ prendra la valeur du numéro de ligne de métro au fur et à mesure qu’on ajou
 liste correspondant à la ligne station départ – station successeur ), element→distance égal à zero
 ( element→distance prendra la valeur de la durée de déplacement au fur et à mesure qu’on ajoute
 des éléments dans la liste correspondant à la ligne station départ – station successeur ), et au final
-element→suivant valable à tous les éléments ajoutés. On aura donc le schéma suivant :
+element→suivant valable à tous les éléments ajoutés. 
+
+On aura donc le schéma suivant :
 element(stations départ) → element(successeur1) → .................→ element(successeurN) →
 NULL.
 
