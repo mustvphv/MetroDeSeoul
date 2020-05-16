@@ -240,7 +240,7 @@ l’algorithme de Dijkstra.
 
 Explication des fonctions du programme :
 
-<pre><code>int rechercheIndiceDebut(int sommet_pivot)</code></pre> : cette fonction permet de trouver l'indice de début des
+<pre>int rechercheIndiceDebut(int sommet_pivot)</pre> : cette fonction permet de trouver l'indice de début des
 lignes successeurs d'une station donnée dans la matrice compacte Mco.
 
 int correspondanceTemps(int x_pivotMCO1, int x_pivot1) : détermine s'il y a une correspondance
