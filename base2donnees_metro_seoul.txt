@@ -1,0 +1,438 @@
+1|Incheon<1:4|Dongincheon>
+1|Dongincheon<1:4|Incheon,1:2|Dowon>
+1|Dowon<1:2|Dongincheon,1:3|Jemulpo>
+1|Jemulpo<1:3|Dowon,1:2|Dohwa>
+1|Dohwa<1:2|Jemulpo,1:2|Juan>
+1|Juan<1:2|Dohwa,1:2|Ganseok>
+1|Ganseok<1:2|Juan,1:3|Dongam>
+1|Dongam<1:3|Ganseok,1:3|Baegun>
+1|Baegun<1:3|Dongam,1:3|Bupyeong>
+1|Bupyeong<1:3|Baegun,1:3|Bugae>
+1|Bugae<1:3|Bupyeong,1:2|Songnae>
+1|Songnae<1:2|Bugae,1:2|Jung-dong>
+1|Jung-dong<1:2|Songnae,1:3|Bucheon>
+1|Bucheon<1:3|Jung-dong,1:2|Sosa>
+1|Sosa<1:2|Bucheon,1:3|Yeokgok>
+1|Yeokgok<1:3|Sosa,1:2|Onsu>
+1|Onsu<1:2|Yeokgok,1:3|Oryu-dong>
+1|Oryu-dong<1:3|Onsu,1:3|Gaebong>
+1|Gaebong<1:3|Oryu-dong,1:2|Guil>
+1|Guil<1:2|Gaebong,1:3|Guro>
+1|Guro<1:3|Guil,1:5|Gasan Digital Complex,1:2|Sindorim>
+1|Gasan Digital Complex<1:5|Guro,1:3|Doksan>
+1|Doksan<1:3|Gasan Digital Complex,1:2|Siheung>
+1|Siheung<1:2|Doksan,1:5|Gwangmyeong,1:3|Seoksu>
+1|Gwangmyeong<1:5|Siheung>
+1|Seoksu<1:3|Siheung,1:3|Gwanak>
+1|Gwanak<1:3|Seoksu,1:3|Anyang>
+1|Anyang<1:3|Gwanak,1:3|Myeonghak>
+1|Myeonghak<1:3|Anyang,1:3|Geumjeong>
+1|Geumjeong<1:3|Myeonghak,1:3|Gunpo>
+1|Gunpo<1:3|Geumjeong,1:6|Uiwang>
+1|Uiwang<1:6|Gunpo,1:4|Sungkyunkwan University>
+1|Sungkyunkwan University<1:4|Uiwang,1:4|Hwaseo>
+1|Hwaseo<1:4|Sungkyunkwan University,1:3|Suwon>
+1|Suwon<1:3|Hwaseo,1:4|Seryu>
+1|Seryu<1:4|Suwon,1:4|Byeongjeom>
+1|Byeongjeom<1:4|Seryu,1:3|Sema>
+1|Sema<1:3|Byeongjeom,1:3|Osan College>
+1|Osan College<1:3|Sema,1:4|Osan>
+1|Osan<1:4|Osan College,1:4|Jinwi>
+1|Jinwi<1:4|Osan,1:4|Songtan>
+1|Songtan<1:4|Jinwi,1:3|Seojeong-ri>
+1|Seojeong-ri<1:3|Songtan,1:5|Jije>
+1|Jije<1:5|Seojeong-ri,1:5|Pyeongtaek>
+1|Pyeongtaek<1:5|Jije,1:8|Jiksan>
+1|Jiksan<1:8|Pyeongtaek,1:5|Seonghwan>
+1|Seonghwan<1:5|Jiksan,1:5|Dujeong>
+1|Dujeong<1:5|Seonghwan,1:4|Cheonan>
+1|Cheonan<1:4|Dujeong>
+1|Sindorim<1:2|Guro,1:3|Yeongdeungpo>
+1|Yeongdeungpo<1:3|Sindorim,1:3|Singil>
+1|Singil<1:3|Yeongdeungpo,1:2|Daebang>
+1|Daebang<1:2|Singil,1:3|Noryangjin>
+1|Noryangjin<1:3|Daebang,1:4|Yongsan>
+1|Yongsan<1:4|Noryangjin,1:3|Namyeong>
+1|Namyeong<1:3|Yongsan,1:3|Seoul Station>
+1|Seoul Station<1:3|Namyeong,1:2|City Hall>
+1|City Hall<1:2|Seoul Station,1:3|Jonggak>
+1|Jonggak<1:3|City Hall,1:2|Jongno 3(sam)-ga>
+1|Jongno 3(sam)-ga<1:2|Jonggak,1:2|Jongno 5(o)-ga>
+1|Jongno 5(o)-ga<1:2|Jongno 3(sam)-ga,1:2|Dongdaemun>
+1|Dongdaemun<1:2|Jongno 5(o)-ga,1:2|Dongmyo>
+1|Dongmyo<1:2|Dongdaemun,1:2|Sinseol-dong>
+1|Sinseol-dong<1:2|Dongmyo,1:2|Jegi-dong>
+1|Jegi-dong<1:2|Sinseol-dong,1:2|Cheongnyangni(Underground)>
+1|Cheongnyangni(Underground)<1:2|Jegi-dong,1:3|Hoegi>
+1|Hoegi<1:3|Cheongnyangni(Underground),1:2|Hankuk University of Foreign Studies>
+1|Hankuk University of Foreign Studies<1:2|Hoegi,1:2|Sinimun>
+1|Sinimun<1:2|Hankuk University of Foreign Studies,1:2|Seokgye>
+1|Seokgye<1:2|Sinimun,1:3|Seongbuk>
+1|Seongbuk<1:3|Seokgye,1:3|Wolgye>
+1|Wolgye<1:3|Seongbuk,1:3|Nokcheon>
+1|Nokcheon<1:3|Wolgye,1:2|Changdong>
+1|Changdong<1:2|Nokcheon,1:3|Banghak>
+1|Banghak<1:3|Changdong,1:2|Dobong>
+1|Dobong<1:2|Banghak,1:2|Dobongsan>
+1|Dobongsan<1:2|Dobong,1:3|Mangwolsa>
+1|Mangwolsa<1:3|Dobongsan,1:2|Hoeryong>
+1|Hoeryong<1:2|Mangwolsa,1:3|Uijeongbu>
+1|Uijeongbu<1:3|Hoeryong,1:3|Ganeung>
+1|Ganeung<1:3|Uijeongbu,1:2|Nogyang>
+1|Nogyang<1:2|Ganeung,1:3|Yangju>
+1|Yangju<1:3|Nogyang,1:6|Deokgye>
+1|Deokgye<1:6|Yangju,1:4|Deokjeong>
+1|Deokjeong<1:4|Deokgye,1:6|Jihaeng>
+1|Jihaeng<1:6|Deokjeong,1:2|Dongducheonjungang>
+1|Dongducheonjungang<1:2|Jihaeng,1:3|Bosan>
+1|Bosan<1:3|Dongducheonjungang,1:3|Dongducheon>
+1|Dongducheon<1:3|Bosan,1:4|Soyosan>
+1|Soyosan<1:4|Dongducheon>
+2|Kkachisan<2:3|Sinjeongnegeori>
+2|Sinjeongnegeori<2:3|Kkachisan,2:4|Yangcheon-gu-Office>
+2|Yangcheon-gu-Office<2:4|Sinjeongnegeori,2:3|Dorimcheon>
+2|Dorimcheon<2:3|Yangcheon-gu-Office,2:2|Sindorim>
+2|Sindorim<2:2|Dorimcheon,2:3|Mullae,2:3|Daerim>
+2|Daerim<2:3|Sindorim,2:2|Guro Digital Complex>
+2|Guro Digital Complex<2:2|Daerim,2:2|Sindaebang>
+2|Sindaebang<2:2|Guro Digital Complex,2:3|Sillim>
+2|Sillim<2:3|Sindaebang,2:2|Bongcheon>
+2|Bongcheon<2:2|Sillim,2:2|Seoul Nat'l University>
+2|Seoul Nat'l University<2:2|Bongcheon,2:2|Nakseongdae>
+2|Nakseongdae<2:2|Seoul Nat'l University,2:3|Sadang>
+2|Sadang<2:3|Nakseongdae,2:3|Bangbae>
+2|Bangbae<2:3|Sadang,2:3|Seocho>
+2|Seocho<2:3|Bangbae,2:2|Seoul Nat'l University of Education>
+2|Seoul Nat'l University of Education<2:2|Seocho,2:2|Gangnam>
+2|Gangnam<2:2|Seoul Nat'l University of Education,2:2|Yeoksam>
+2|Yeoksam<2:2|Gangnam,2:3|Seolleung>
+2|Seolleung<2:3|Yeoksam,2:2|Samseong>
+2|Samseong<2:2|Seolleung,2:2|Sports Complex>
+2|Sports Complex<2:2|Samseong,2:2|Sincheon>
+2|Sincheon<2:2|Sports Complex,2:2|Jamsil>
+2|Jamsil<2:2|Sincheon,2:2|Seongnae>
+2|Seongnae<2:2|Jamsil,2:2|Gangbyeon>
+2|Gangbyeon<2:2|Seongnae,2:2|Guui>
+2|Guui<2:2|Gangbyeon,2:3|Konkuk University>
+2|Konkuk University<2:3|Guui,2:3|Seongsu>
+2|Seongsu<2:3|Konkuk University,2:4|Yongdap,2:2|Ttukseom>
+2|Yongdap<2:4|Seongsu,2:2|Sindap>
+2|Sindap<2:2|Yongdap,2:2|Yongdu>
+2|Yongdu<2:2|Sindap,2:2|Sinseol-dong>
+2|Sinseol-dong<2:2|Yongdu>
+2|Ttukseom<2:2|Seongsu,2:2|Hanyang University>
+2|Hanyang University<2:2|Ttukseom,2:2|Wangsimni>
+2|Wangsimni<2:2|Hanyang University,2:2|Sangwangsimni>
+2|Sangwangsimni<2:2|Wangsimni,2:2|Sindang>
+2|Sindang<2:2|Sangwangsimni,2:2|Dongdaemun Stadium>
+2|Dongdaemun Stadium<2:2|Sindang,2:2|Euljiro 4(sa)-ga>
+2|Euljiro 4(sa)-ga<2:2|Dongdaemun Stadium,2:2|Euljiro 3(sam)-ga>
+2|Euljiro 3(sam)-ga<2:2|Euljiro 4(sa)-ga,2:2|Euljiro 1(il)-ga>
+2|Euljiro 1(il)-ga<2:2|Euljiro 3(sam)-ga,2:2|City Hall>
+2|City Hall<2:2|Euljiro 1(il)-ga,2:2|Chungjeongno>
+2|Chungjeongno<2:2|City Hall,2:2|Ahyeon>
+2|Ahyeon<2:2|Chungjeongno,2:2|Ewha Womans University>
+2|Ewha Womans University<2:2|Ahyeon,2:2|Sinchon(underground)>
+2|Sinchon(underground)<2:2|Ewha Womans University,2:3|Hongik University>
+2|Hongik University<2:3|Sinchon(underground),2:2|Hapjeong>
+2|Hapjeong<2:2|Hongik University,2:3|Dangsan>
+2|Dangsan<2:3|Hapjeong,2:2|Yeongdeungpo-gu Office>
+2|Yeongdeungpo-gu Office<2:2|Dangsan,2:2|Mullae>
+2|Mullae<2:2|Yeongdeungpo-gu Office,2:3|Sindorim>
+3|Daehwa<3:3|Juyeop>
+3|Juyeop<3:3|Daehwa,3:3|Jeongbalsan>
+3|Jeongbalsan<3:3|Juyeop,3:2|Madu>
+3|Madu<3:2|Jeongbalsan,3:3|Baekseok>
+3|Baekseok<3:3|Madu,3:4|Daegok>
+3|Daegok<3:4|Baekseok,3:3|Hwajeong>
+3|Hwajeong<3:3|Daegok,3:4|Wondang>
+3|Wondang<3:4|Hwajeong,3:7|Samsong>
+3|Samsong<3:7|Wondang,3:3|Jichuk>
+3|Jichuk<3:3|Samsong,3:4|Gupabal>
+3|Gupabal<3:4|Jichuk,3:3|Yeonsinnae>
+3|Yeonsinnae<3:3|Gupabal,3:2|Bulgwang>
+3|Bulgwang<3:2|Yeonsinnae,3:2|Nokbeon>
+3|Nokbeon<3:2|Bulgwang,3:3|Hongje>
+3|Hongje<3:3|Nokbeon,3:2|Muakjae>
+3|Muakjae<3:2|Hongje,3:2|Dongrimmun>
+3|Dongrimmun<3:2|Muakjae,3:3|Gyeongbokgung>
+3|Gyeongbokgung<3:3|Dongrimmun,3:2|Anguk>
+3|Anguk<3:2|Gyeongbokgung,3:2|Jongno 3(sam)-ga>
+3|Jongno 3(sam)-ga<3:2|Anguk,3:2|Euljiro 3(sam)-ga>
+3|Euljiro 3(sam)-ga<3:2|Jongno 3(sam)-ga,3:2|Chungmuro>
+3|Chungmuro<3:2|Euljiro 3(sam)-ga,3:2|Dongguk University>
+3|Dongguk University<3:2|Chungmuro,3:2|Yaksu>
+3|Yaksu<3:2|Dongguk University,3:2|Geumho>
+3|Geumho<3:2|Yaksu,3:2|Oksu>
+3|Oksu<3:2|Geumho,3:3|Apgujeong>
+3|Apgujeong<3:3|Oksu,3:3|Sinsa>
+3|Sinsa<3:3|Apgujeong,3:2|Jamwon>
+3|Jamwon<3:2|Sinsa,3:2|Express Bus Terminal>
+3|Express Bus Terminal<3:2|Jamwon,3:3|Seoul Nat'l University of Education>
+3|Seoul Nat'l University of Education<3:3|Express Bus Terminal,3:2|Nambu Bus Terminal>
+3|Nambu Bus Terminal<3:2|Seoul Nat'l University of Education,3:3|Yangjae>
+3|Yangjae<3:3|Nambu Bus Terminal,3:3|Maebong>
+3|Maebong<3:3|Yangjae,3:2|Dogok>
+3|Dogok<3:2|Maebong,3:2|Daechi>
+3|Daechi<3:2|Dogok,3:2|Hangnyeoul>
+3|Hangnyeoul<3:2|Daechi,3:2|Daecheong>
+3|Daecheong<3:2|Hangnyeoul,3:2|Irwon>
+3|Irwon<3:2|Daecheong,3:3|Suseo>
+3|Suseo<3:3|Irwon>
+4|Danggogae<4:2|Sanggye>
+4|Sanggye<4:2|Danggogae,4:2|Nowon>
+4|Nowon<4:2|Sanggye,4:3|Changdong>
+4|Changdong<4:3|Nowon,4:2|Ssangmun>
+4|Ssangmun<4:2|Changdong,4:3|Suyu>
+4|Suyu<4:3|Ssangmun,4:2|Mia>
+4|Mia<4:2|Suyu,4:3|Miasamgeori>
+4|Miasamgeori<4:3|Mia,4:2|Gireum>
+4|Gireum<4:2|Miasamgeori,4:3|Sungshin Women's University>
+4|Sungshin Women's University<4:3|Gireum,4:2|Hansung University>
+4|Hansung University<4:2|Sungshin Women's University,4:2|Hyehwa>
+4|Hyehwa<4:2|Hansung University,4:3|Dongdaemun>
+4|Dongdaemun<4:3|Hyehwa,4:2|Dongdaemun Stadium>
+4|Dongdaemun Stadium<4:2|Dongdaemun,4:3|Chungmuro>
+4|Chungmuro<4:3|Dongdaemun Stadium,4:2|Myeong-dong>
+4|Myeong-dong<4:2|Chungmuro,4:2|Hoehyeon>
+4|Hoehyeon<4:2|Myeong-dong,4:2|Seoul Station>
+4|Seoul Station<4:2|Hoehyeon,4:2|Sookmyung Women's University>
+4|Sookmyung Women's University<4:2|Seoul Station,4:2|Samgakji>
+4|Samgakji<4:2|Sookmyung Women's University,4:2|Sinyongsan>
+4|Sinyongsan<4:2|Samgakji,4:2|Ichon>
+4|Ichon<4:2|Sinyongsan,4:4|Dongjak>
+4|Dongjak<4:4|Ichon,4:3|Isu>
+4|Isu<4:3|Dongjak,4:2|Sadang>
+4|Sadang<4:2|Isu,4:2|Namtaeryeong>
+4|Namtaeryeong<4:2|Sadang,4:3|Seonbawi>
+4|Seonbawi<4:3|Namtaeryeong,4:2|Seoul Racecource Paek>
+4|Seoul Racecource Paek<4:2|Seonbawi,4:2|Seoul Grand Park>
+4|Seoul Grand Park<4:2|Seoul Racecource Paek,4:2|Gwacheon>
+4|Gwacheon<4:2|Seoul Grand Park,4:2|Government Complex Gwacheon>
+4|Government Complex Gwacheon<4:2|Gwacheon,4:4|Indeogwon>
+4|Indeogwon<4:4|Government Complex Gwacheon,4:3|Pyeongchon>
+4|Pyeongchon<4:3|Indeogwon,4:2|Beomgye>
+4|Beomgye<4:2|Pyeongchon,4:4|Geumjeong>
+4|Geumjeong<4:4|Beomgye,4:4|Sanbon>
+4|Sanbon<4:4|Geumjeong,4:2|Surisan>
+4|Surisan<4:2|Sanbon,4:3|Daeyami>
+4|Daeyami<4:3|Surisan,4:3|Banwol>
+4|Banwol<4:3|Daeyami,4:4|Sangnoksu>
+4|Sangnoksu<4:4|Banwol,4:2|Hanyang University at Ansan>
+4|Hanyang University at Ansan<4:2|Sangnoksu,4:2|Jungang>
+4|Jungang<4:2|Hanyang University at Ansan,4:2|Gojan>
+4|Gojan<4:2|Jungang,4:3|Gongdan>
+4|Gongdan<4:3|Gojan,4:3|Ansan>
+4|Ansan<4:3|Gongdan,4:3|Singil oncheon>
+4|Singil oncheon<4:3|Ansan,4:4|Jeongwang>
+4|Jeongwang<4:4|Singil oncheon,4:3|Oido>
+4|Oido<4:3|Jeongwang>
+5|Banghwa<5:2|Gaehwasan>
+5|Gaehwasan<5:2|Banghwa,5:2|Gimpo Int'l Airport>
+5|Gimpo Int'l Airport<5:2|Gaehwasan,5:2|Songjeong>
+5|Songjeong<5:2|Gimpo Int'l Airport,5:2|Magok>
+5|Magok<5:2|Songjeong,5:2|Balsan>
+5|Balsan<5:2|Magok,5:2|Ujangsan>
+5|Ujangsan<5:2|Balsan,5:2|Hwagok>
+5|Hwagok<5:2|Ujangsan,5:2|Kkachisan>
+5|Kkachisan<5:2|Hwagok,5:2|Sinjeong>
+5|Sinjeong<5:2|Kkachisan,5:2|Mok-dong>
+5|Mok-dong<5:2|Sinjeong,5:2|Omokgyo>
+5|Omokgyo<5:2|Mok-dong,5:2|Yangpyeong>
+5|Yangpyeong<5:2|Omokgyo,5:2|Yeongdeungpo-gu Office>
+5|Yeongdeungpo-gu Office<5:2|Yangpyeong,5:2|Yeongdeungpo Market>
+5|Yeongdeungpo Market<5:2|Yeongdeungpo-gu Office,5:2|Singil>
+5|Singil<5:2|Yeongdeungpo Market,5:2|Yeouido>
+5|Yeouido<5:2|Singil,5:2|Yeouinaru>
+5|Yeouinaru<5:2|Yeouido,5:3|Mapo>
+5|Mapo<5:3|Yeouinaru,5:2|Gongdeok>
+5|Gongdeok<5:2|Mapo,5:2|Aeogae>
+5|Aeogae<5:2|Gongdeok,5:2|Chungjeongno>
+5|Chungjeongno<5:2|Aeogae,5:2|Seodaemun>
+5|Seodaemun<5:2|Chungjeongno,5:2|Gwanghwamun>
+5|Gwanghwamun<5:2|Seodaemun,5:2|Jongno 3(sam)-ga>
+5|Jongno 3(sam)-ga<5:2|Gwanghwamun,5:2|Euljiro 4(sa)-ga>
+5|Euljiro 4(sa)-ga<5:2|Jongno 3(sam)-ga,5:2|Dongdaemun Stadium>
+5|Dongdaemun Stadium<5:2|Euljiro 4(sa)-ga,5:2|Cheonggu>
+5|Cheonggu<5:2|Dongdaemun Stadium,5:2|Singeumbo>
+5|Singeumbo<5:2|Cheonggu,5:2|Haengdang>
+5|Haengdang<5:2|Singeumbo,5:2|Wangsimni>
+5|Wangsimni<5:2|Haengdang,5:2|Majang>
+5|Majang<5:2|Wangsimni,5:2|Dapsimni>
+5|Dapsimni<5:2|Majang,5:2|Janghanpyeong>
+5|Janghanpyeong<5:2|Dapsimni,5:2|Gunja>
+5|Gunja<5:2|Janghanpyeong,5:2|Achasan>
+5|Achasan<5:2|Gunja,5:2|Gwangnaru>
+5|Gwangnaru<5:2|Achasan,5:3|Cheonho>
+5|Cheonho<5:3|Gwangnaru,5:2|Gangdong>
+5|Gangdong<5:2|Cheonho,5:2|Gil-dong,5:2|Dunchon-dong>
+5|Gil-dong<5:2|Gangdong,5:2|Gubeundari>
+5|Gubeundari<5:2|Gil-dong,5:2|Myeongil>
+5|Myeongil<5:2|Gubeundari,5:2|Godeok>
+5|Godeok<5:2|Myeongil,5:2|Sangil-dong>
+5|Sangil-dong<5:2|Godeok>
+5|Dunchon-dong<5:2|Gangdong,5:2|Olympic Park>
+5|Olympic Park<5:2|Dunchon-dong,5:2|Bangi>
+5|Bangi<5:2|Olympic Park,5:2|Ogeum>
+5|Ogeum<5:2|Bangi,5:2|Gaerong>
+5|Gaerong<5:2|Ogeum,5:2|Geoyeo>
+5|Geoyeo<5:2|Gaerong,5:2|Macheon>
+5|Macheon<5:2|Geoyeo>
+6|Bonghwasan<6:2|Hwarangdae>
+6|Hwarangdae<6:2|Bonghwasan,6:2|Taereung>
+6|Taereung<6:2|Hwarangdae,6:2|Seokgye>
+6|Seokgye<6:2|Taereung,6:2|Dolgoji>
+6|Dolgoji<6:2|Seokgye,6:2|Sangwolgok>
+6|Sangwolgok<6:2|Dolgoji,6:2|Wolgok>
+6|Wolgok<6:2|Sangwolgok,6:2|Korea University>
+6|Korea University<6:2|Wolgok,6:2|Anam>
+6|Anam<6:2|Korea University,6:2|Bomun>
+6|Bomun<6:2|Anam,6:2|Changsin>
+6|Changsin<6:2|Bomun,6:2|Dongmyo>
+6|Dongmyo<6:2|Changsin,6:2|Sindang>
+6|Sindang<6:2|Dongmyo,6:2|Cheonggu>
+6|Cheonggu<6:2|Sindang,6:2|Yaksu>
+6|Yaksu<6:2|Cheonggu,6:2|Beotigogae>
+6|Beotigogae<6:2|Yaksu,6:2|Hangangjin>
+6|Hangangjin<6:2|Beotigogae,6:2|Itaewon>
+6|Itaewon<6:2|Hangangjin,6:2|Noksapyeong>
+6|Noksapyeong<6:2|Itaewon,6:2|Samgakji>
+6|Samgakji<6:2|Noksapyeong,6:2|Hyochang Park>
+6|Hyochang Park<6:2|Samgakji,6:2|Gongdeok>
+6|Gongdeok<6:2|Hyochang Park,6:2|Daeheung>
+6|Daeheung<6:2|Gongdeok,6:2|Gwangheungchang>
+6|Gwangheungchang<6:2|Daeheung,6:2|Sangsu>
+6|Sangsu<6:2|Gwangheungchang,6:2|Hapjeong>
+6|Hapjeong<6:2|Sangsu,6:2|Mangwon>
+6|Mangwon<6:2|Hapjeong,6:2|Mapo-gu Office>
+6|Mapo-gu Office<6:2|Mangwon,6:2|World Cup Stadium>
+6|World Cup Stadium<6:2|Mapo-gu Office,6:2|Susaek>
+6|Susaek<6:2|World Cup Stadium,6:2|Jeungsan>
+6|Jeungsan<6:2|Susaek,6:2|Saejeol>
+6|Saejeol<6:2|Jeungsan,6:2|Eungam>
+6|Eungam<6:2|Saejeol,6:2|Yeokchon>
+6|Yeokchon<6:2|Bulgwang>
+6|Bulgwang<6:2|Dokbawi>
+6|Dokbawi<6:3|Yeonsinnae>
+6|Yeonsinnae<6:2|Gusan>
+6|Gusan<6:3|Eungam>
+7|Onsu<7:3|Cheonwang>
+7|Cheonwang<7:3|Onsu,7:3|Gwangmyeongsageori>
+7|Gwangmyeongsageori<7:3|Cheonwang,7:2|Cheolsan>
+7|Cheolsan<7:2|Gwangmyeongsageori,7:3|Gasan Digital Complex>
+7|Gasan Digital Complex<7:3|Cheolsan,7:2|Namguro>
+7|Namguro<7:2|Gasan Digital Complex,7:2|Daerim>
+7|Daerim<7:2|Namguro,7:3|Sinpung>
+7|Sinpung<7:3|Daerim,7:2|Boramae>
+7|Boramae<7:2|Sinpung,7:2|Sindaebang-samgeori>
+7|Sindaebang-samgeori<7:2|Boramae,7:2|Jangseung-baegi>
+7|Jangseung-baegi<7:2|Sindaebang-samgeori,7:2|Sangdo>
+7|Sangdo<7:2|Jangseung-baegi,7:2|Soongsil University>
+7|Soongsil University<7:2|Sangdo,7:3|Namseong>
+7|Namseong<7:3|Soongsil University,7:2|Isu>
+7|Isu<7:2|Namseong,7:2|Naebang>
+7|Naebang<7:2|Isu,7:3|Express Bus Terminal>
+7|Express Bus Terminal<7:3|Naebang,7:2|Banpo>
+7|Banpo<7:2|Express Bus Terminal,7:2|Nonhyeon>
+7|Nonhyeon<7:2|Banpo,7:2|Hak-dong>
+7|Hak-dong<7:2|Nonhyeon,7:2|Gangnam-gu Office>
+7|Gangnam-gu Office<7:2|Hak-dong,7:2|Cheongdam>
+7|Cheongdam<7:2|Gangnam-gu Office,7:3|Ttukseom Resort>
+7|Ttukseom Resort<7:3|Cheongdam,7:2|Konkuk University>
+7|Konkuk University<7:2|Ttukseom Resort,7:2|Children's Grand Park>
+7|Children's Grand Park<7:2|Konkuk University,7:2|Gunja>
+7|Gunja<7:2|Children's Grand Park,7:2|Junggok>
+7|Junggok<7:2|Gunja,7:2|Yongmasan>
+7|Yongmasan<7:2|Junggok,7:2|Sagajeong>
+7|Sagajeong<7:2|Yongmasan,7:2|Myeonmok>
+7|Myeonmok<7:2|Sagajeong,7:2|Sangbong>
+7|Sangbong<7:2|Myeonmok,7:2|Junghwa>
+7|Junghwa<7:2|Sangbong,7:2|Meokkol>
+7|Meokkol<7:2|Junghwa,7:2|Taereung>
+7|Taereung<7:2|Meokkol,7:2|Gongneung>
+7|Gongneung<7:2|Taereung,7:2|Hagye>
+7|Hagye<7:2|Gongneung,7:2|Junggye>
+7|Junggye<7:2|Hagye,7:2|Nowon>
+7|Nowon<7:2|Junggye,7:2|Madeul>
+7|Madeul<7:2|Nowon,7:3|Suraksan>
+7|Suraksan<7:3|Madeul,7:3|Dobongsan>
+7|Dobongsan<7:3|Suraksan,7:5|Jangam>
+7|Jangam<7:5|Dobongsan>
+8|Amsa<8:2|Cheonho>
+8|Cheonho<8:2|Amsa,8:3|Gangdong-gu Office>
+8|Gangdong-gu Office<8:3|Cheonho,8:3|Mongchontoseong>
+8|Mongchontoseong<8:3|Gangdong-gu Office,8:2|Jamsil>
+8|Jamsil<8:2|Mongchontoseong,8:3|Seokchon>
+8|Seokchon<8:3|Jamsil,8:2|Songpa>
+8|Songpa<8:2|Seokchon,8:2|Garak Market>
+8|Garak Market<8:2|Songpa,8:2|Munjeong>
+8|Munjeong<8:2|Garak Market,8:2|Jangji>
+8|Jangji<8:2|Munjeong,8:2|Bokjeong>
+8|Bokjeong<8:2|Jangji,8:4|Sanseong>
+8|Sanseong<8:4|Bokjeong,8:2|Namhansanseong>
+8|Namhansanseong<8:2|Sanseong,8:2|Dandaeogeori>
+8|Dandaeogeori<8:2|Namhansanseong,8:2|Sinheung>
+8|Sinheung<8:2|Dandaeogeori,8:2|Sujin>
+8|Sujin<8:2|Sinheung,8:2|Moran>
+8|Moran<8:2|Sujin>
+Jungang Line|Paldang<Jungang Line:5|Dosim>
+Jungang Line|Dosim<Jungang Line:5|Paldang,Jungang Line:3|Deokso>
+Jungang Line|Deokso<Jungang Line:3|Dosim,Jungang Line:4|Yangjeong>
+Jungang Line|Yangjeong<Jungang Line:4|Deokso,Jungang Line:4|Donong>
+Jungang Line|Donong<Jungang Line:4|Yangjeong,Jungang Line:3|Guri>
+Jungang Line|Guri<Jungang Line:3|Donong,Jungang Line:4|Yangwon>
+Jungang Line|Yangwon<Jungang Line:4|Guri,Jungang Line:3|Mangu>
+Jungang Line|Mangu<Jungang Line:3|Yangwon,Jungang Line:3|Jungnang>
+Jungang Line|Jungnang<Jungang Line:3|Mangu,Jungang Line:3|Hoegi>
+Jungang Line|Hoegi<Jungang Line:3|Jungnang,Jungang Line:3|Cheongnyangni(Aboveground)>
+Jungang Line|Cheongnyangni(Aboveground)<Jungang Line:3|Hoegi,Jungang Line:4|Wangsimni>
+Jungang Line|Wangsimni<Jungang Line:4|Cheongnyangni(Aboveground),Jungang Line:2|Eungbong>
+Jungang Line|Eungbong<Jungang Line:2|Wangsimni,Jungang Line:3|Oksu>
+Jungang Line|Oksu<Jungang Line:3|Eungbong,Jungang Line:3|Hannam>
+Jungang Line|Hannam<Jungang Line:3|Oksu,Jungang Line:3|Seobinggo>
+Jungang Line|Seobinggo<Jungang Line:3|Hannam,Jungang Line:3|Ichon>
+Jungang Line|Ichon<Jungang Line:3|Seobinggo,Jungang Line:4|Yongsan>
+Jungang Line|Yongsan<Jungang Line:4|Ichon>
+Bundang Line|Bojeong<Bundang Line:3|Jukjeon>
+Bundang Line|Jukjeon<Bundang Line:3|Bojeong,Bundang Line:4|Ori>
+Bundang Line|Ori<Bundang Line:4|Jukjeon,Bundang Line:2|Migeum>
+Bundang Line|Migeum<Bundang Line:2|Ori,Bundang Line:3|Jeongja>
+Bundang Line|Jeongja<Bundang Line:3|Migeum,Bundang Line:3|Sunae>
+Bundang Line|Sunae<Bundang Line:3|Jeongja,Bundang Line:2|Seohyeon>
+Bundang Line|Seohyeon<Bundang Line:2|Sunae,Bundang Line:2|Imae>
+Bundang Line|Imae<Bundang Line:2|Seohyeon,Bundang Line:3|Yatap>
+Bundang Line|Yatap<Bundang Line:3|Imae,Bundang Line:3|Moran>
+Bundang Line|Moran<Bundang Line:3|Yatap,Bundang Line:2|Taepyeong>
+Bundang Line|Taepyeong<Bundang Line:2|Moran,Bundang Line:2|Kyungwon University>
+Bundang Line|Kyungwon University<Bundang Line:2|Taepyeong,Bundang Line:3|Bokjeong>
+Bundang Line|Bokjeong<Bundang Line:3|Kyungwon University,Bundang Line:4|Suseo>
+Bundang Line|Suseo<Bundang Line:4|Bokjeong,Bundang Line:4|Daemosan>
+Bundang Line|Daemosan<Bundang Line:4|Suseo,Bundang Line:2|Gaepo-dong>
+Bundang Line|Gaepo-dong<Bundang Line:2|Daemosan,Bundang Line:2|Guryong>
+Bundang Line|Guryong<Bundang Line:2|Gaepo-dong,Bundang Line:2|Dogok>
+Bundang Line|Dogok<Bundang Line:2|Guryong,Bundang Line:2|Hanti>
+Bundang Line|Hanti<Bundang Line:2|Dogok,Bundang Line:2|Seolleung>
+Bundang Line|Seolleung<Bundang Line:2|Hanti>
+Incheon Subway Line 1|Gyeyang<Incheon Subway Line 1:3|Gyulhyeon>
+Incheon Subway Line 1|Gyulhyeon<Incheon Subway Line 1:3|Gyeyang,Incheon Subway Line 1:3|Bakchon>
+Incheon Subway Line 1|Bakchon<Incheon Subway Line 1:3|Gyulhyeon,Incheon Subway Line 1:2|Imhak>
+Incheon Subway Line 1|Imhak<Incheon Subway Line 1:2|Bakchon,Incheon Subway Line 1:2|Gyesan>
+Incheon Subway Line 1|Gyesan<Incheon Subway Line 1:2|Imhak,Incheon Subway Line 1:3|Gyeongin Nat'l University of Education>
+Incheon Subway Line 1|Gyeongin Nat'l University of Education<Incheon Subway Line 1:3|Gyesan,Incheon Subway Line 1:2|Jakjeon>
+Incheon Subway Line 1|Jakjeon<Incheon Subway Line 1:2|Gyeongin Nat'l University of Education,Incheon Subway Line 1:2|Galsan>
+Incheon Subway Line 1|Galsan<Incheon Subway Line 1:2|Jakjeon,Incheon Subway Line 1:2|Bupyeong-gu Office>
+Incheon Subway Line 1|Bupyeong-gu Office<Incheon Subway Line 1:2|Galsan,Incheon Subway Line 1:2|Bupyeong Market>
+Incheon Subway Line 1|Bupyeong Market<Incheon Subway Line 1:2|Bupyeong-gu Office,Incheon Subway Line 1:2|Bupyeong>
+Incheon Subway Line 1|Bupyeong<Incheon Subway Line 1:2|Bupyeong Market,Incheon Subway Line 1:2|Dongsu>
+Incheon Subway Line 1|Dongsu<Incheon Subway Line 1:2|Bupyeong,Incheon Subway Line 1:2|Bupyeongsamgeori>
+Incheon Subway Line 1|Bupyeongsamgeori<Incheon Subway Line 1:2|Dongsu,Incheon Subway Line 1:2|Ganseogogeori>
+Incheon Subway Line 1|Ganseogogeori<Incheon Subway Line 1:2|Bupyeongsamgeori,Incheon Subway Line 1:3|Incheon City Hall>
+Incheon Subway Line 1|Incheon City Hall<Incheon Subway Line 1:3|Ganseogogeori,Incheon Subway Line 1:2|Arts Center>
+Incheon Subway Line 1|Arts Center<Incheon Subway Line 1:2|Incheon City Hall,Incheon Subway Line 1:2|Incheon Bus Terminal>
+Incheon Subway Line 1|Incheon Bus Terminal<Incheon Subway Line 1:2|Arts Center,Incheon Subway Line 1:2|Munhak Sports Complex>
+Incheon Subway Line 1|Munhak Sports Complex<Incheon Subway Line 1:2|Incheon Bus Terminal,Incheon Subway Line 1:2|Seonhak>
+Incheon Subway Line 1|Seonhak<Incheon Subway Line 1:2|Munhak Sports Complex,Incheon Subway Line 1:2|Sinyeonsu>
+Incheon Subway Line 1|Sinyeonsu<Incheon Subway Line 1:2|Seonhak,Incheon Subway Line 1:2|Woninjae>
+Incheon Subway Line 1|Woninjae<Incheon Subway Line 1:2|Sinyeonsu,Incheon Subway Line 1:2|Dongchun>
+Incheon Subway Line 1|Dongchun<Incheon Subway Line 1:2|Woninjae,Incheon Subway Line 1:2|Dongmak>
+Incheon Subway Line 1|Dongmak<Incheon Subway Line 1:2|Dongchun>
