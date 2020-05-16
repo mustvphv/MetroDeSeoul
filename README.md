@@ -134,10 +134,12 @@ successeurs de « Dongdaemun Stadium » (« 2:2|Euljiro 4(sa)-ga » et « 5:2|Eu
 
 Au niveau du code, les programmes qui s’occupent de la récupération à partir de la base de données
 sont « recup_infos_base2donnees.c» et « recup_ infos_base2donnees.h ».
+
 Dans le programme « recup_infos_base2donnees.h», on a créé « stations_finales » de type station
 qui est une structure de données, qui va stocker, pour chaque station déclarée dans la base de
 données, un nom (« char nom[50] »), un tableau à deux dimensions (« char lignes[50][50] ») qui va
 stoker là ou les lignes qui correspondent à un nom de station.
+
 Enfin, la structure de données « station » est constituée d’un autre tableau à deux dimensions
 (« char correspondances[50][150] ») qui va stocker les correspondances de la station en question.
 
@@ -157,6 +159,7 @@ dans le nom de la station, dans les correspondances ou dans les lignes.
 Au niveau du code, dans la matrice compacte, ce sont les programmes « matrice_compacte.c» et
 « matrice_compacte.h », qui s’occupent de la création de la matrice compacte à partir des
 informations stockées dans « stations_finales » précédemment.
+
 Dans le programme « matrice_compacte.c», dans la procédure « creerMatriceCompacte() », on
 utilise les indices de « stations_finales » comme des identifiants correspondant chacun à une station
 différente (par exemple, la station qui a pour nom « Incheon » qui est la première a être déclarée
@@ -165,6 +168,7 @@ dans la base de données, aura pour indice 0 dans stations_finales à l’issue 
 la matrice compacte (comme station principale ou comme successeur direct d’une autre station).
 Dans le même programme, on créé la matrice compacte « int matrice_compacte[500*2][4]; » qui
 comporte 4 colonnes.
+
 À l’issue de la fonction « creerMatriceCompacte() », on aura la première colonne qui représentera
 l’identifiant (l’indice dans stations_finales) de la station principale, dans la deuxième colonne, on
 aura la station qui la succède, dans la troisième colonne, on aura le numéro de la ligne qui sera en
@@ -176,8 +180,11 @@ commun entre la station principale et le successeur, puis à la quatrième colon
 Au niveau du code, dans la liste de successeurs, ce sont les programmes « liste_de_successeurs.c»
 et « liste_de_successeurs.h », qui s’occupent de la création de la liste de successeurs à partir des
 informations stockées dans « stations_finales » précédemment.
+
 Dans le programme « liste_de_successeurs.c», dans la procédure « creerListeDeSuccesseurs()», on
-initialise directement. Par exemple, pour l’indice 0, on crée une liste dans liste_de_successeur[0],
+initialise directement. 
+
+Par exemple, pour l’indice 0, on crée une liste dans liste_de_successeur[0],
 avec dans la liste, en premier, le numéro de la station départ comme suit : l’identifiant égal à
 « element->nombre » qui est le numéro de l’indice [0] ou [i] i allant de 0 à nombre de stations, puis
 pour la station départ qu’on place en tête de liste, element→ligne égal à zero ( element→ligne
