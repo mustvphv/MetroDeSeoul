@@ -63,15 +63,7 @@ stations « Oryu-dong » (qui appartient à la ligne 1 et le temps du trajet Gae
 3 minutes) et « Gui l » (qui appartient à la ligne 1 et le temps du trajet Gaebong à Guil est de 2
 minutes).
 
-#### Attention : La ligne issue de la base de données « 1|Gaebong<1:3|Oryu-dong,1:2|Guil> » ne
-
-#### veut pas forcément dire que la station Gaebong n’appartient qu’à la ligne 1 (pareil pour les
-
-#### successeurs), dans le cas où elle appartiendrait à une autre ligne, on aurait une autre
-
-déclaration de la même station mais avec une ligne différente, la fonction de récupération de
-données se chargera elle, de « ranger » toutes les informations autour d’un même nom de station
-(voir artie « 3. La récupération des informations issues de la base de données »).
+#### Attention : La ligne issue de la base de données « 1|Gaebong<1:3|Oryu-dong,1:2|Guil> » ne veut pas forcément dire que la station Gaebong n’appartient qu’à la ligne 1 (pareil pour les successeurs), dans le cas où elle appartiendrait à une autre ligne, on aurait une autre déclaration de la même station mais avec une ligne différente, la fonction de récupération de données se chargera elle, de « ranger » toutes les informations autour d’un même nom de station (voir artie « 3. La récupération des informations issues de la base de données »).
 
 
 #### Cas particuliers :
